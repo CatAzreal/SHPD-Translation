@@ -1,0 +1,44 @@
+﻿﻿ui.customnotebutton.title,Add a Custom Note,添加自定记录
+ui.customnotebutton.limit_title,Note Limit Reached,记录已达上限
+ui.customnotebutton.limit_text,You can delete existing notes to make room for more.,你可以删除已有的记录以为新的记录腾出空间。
+ui.customnotebutton.desc,"Custom Notes let you record anything you'd like in the journal.\n\nThey can be just text on its own, or they can be associated with a dungeon floor, one of your items, or a type of potion/scroll/ring.","你可以在日志中自定记录，记下任何你想记录的东西。\n\n自定记录可以只是独立的文本，也可以是关联于地牢楼层、背包物品或是药剂/卷轴/戒指类别的文本。"
+ui.customnotebutton.new_text,New Text Note,新建独立文本记录
+ui.customnotebutton.new_text_title,Write a title for this custom text note:,为这页记录写上标题：
+ui.customnotebutton.new_floor,New Dungeon Floor Note,新建地牢楼层记录
+ui.customnotebutton.new_floor_prompt,Select a floor of the dungeon to associate this note with.,选择要记录的地牢楼层
+ui.customnotebutton.new_floor_title,Write a title for this custom note for _floor %d_:,为_第%d层_的记录写上标题：
+ui.customnotebutton.new_inv,New Inventory Item Note,新建背包物品记录
+ui.customnotebutton.new_inv_prompt,Select a Note Item,选择要记录的背包物品
+ui.customnotebutton.new_item_title,"Write a title for this custom note for the item:\n_%s_",为物品_%s_的记录写上标题：
+ui.customnotebutton.new_type,New Item Type Note,新建物品类别记录
+ui.customnotebutton.new_type_prompt,Select a type of item you'd like to associate this note with.,选择要记录的物品类别
+ui.customnotebutton$customnotewindow.edit_title,Edit Title,编辑标题
+ui.customnotebutton$customnotewindow.add_text,Add Text,添加文本
+ui.customnotebutton$customnotewindow.edit_text,Edit Text,编辑文本
+ui.customnotebutton$customnotewindow.delete,Delete,删除
+ui.customnotebutton$customnotewindow.delete_warn,Are you sure you want to delete this custom note?,你确定要删除这页记录吗？
+ui.customnotebutton$customnotewindow.confirm,Confirm,确定
+ui.customnotebutton$customnotewindow.cancel,Cancel,取消
+ui.quickslotbutton.select_item,Quickslot an item,选择放入快捷栏的物品
+ui.talentspane.tier,tier %d,%d层
+ui.talentspane.unlock_tier2,Reach level 6 to unlock more talents.,升到6级以解锁更多天赋
+ui.talentspane.unlock_tier3,Reach level 12 and use the item from the second boss to unlock more talents.,升到12级并使用第二个Boss的掉落物以解锁更多天赋。
+ui.talentspane.unlock_tier4,Reach level 20 and use the item from the fourth boss to unlock more talents.,升到20级并使用第四个Boss的掉落物以解锁更多天赋。
+ui.toolbar.quickslot_prompt,Select a Quickslot,选择一个快捷栏
+ui.toolbar.quickslot_select,Select Quickslot,选择快捷栏
+ui.toolbar.quickslot_assign,Assign Quickslot,分配快捷栏
+ui.toolbar.quickslot_cancel,Cancel,取消
+ui.toolbar.container_prompt,Select a Container,选择一个容器
+ui.toolbar.container_select,Select Container,选择容器
+ui.toolbar.container_cancel,Cancel,取消
+ui.toolbar.container_empty,That container is empty!,这个容器是空的！
+ui.toolbar.item_prompt,Select an Item,选择一件物品
+ui.toolbar.item_select,Select Item,选择物品
+ui.toolbar.item_use,Quick-use Item,快速使用物品
+ui.toolbar.item_cancel,Cancel,取消
+ui.toolbar.examine_prompt,"Press again to search\nPress a tile to examine","再按一遍此按钮以搜索周边；\n点选一个地格以获得其信息。"
+ui.updatenotification.title,Update,更新
+ui.updatenotification$wndupdate.title,An Update is Available!,有新版本可用！
+ui.updatenotification$wndupdate.versioned_title,Update Available: %s,最新版本：%s
+ui.updatenotification$wndupdate.desc,"Shattered Pixel Dungeon is regularly updated with overhauls to existing game content, or entirely new content!\n\nGame balance is also frequently improved in game updates, so that specific items/heroes/enemies aren't too strong or too weak.\n\nUpdates also include fixes for bugs and other various stability improvements.","破碎的像素地牢会时常更新以变更既有内容，或是加入新东西！\n\n游戏平衡也会经常得到调整，维持物品、英雄、敌人强度的大致均衡。\n\n更新还包含漏洞修复与各种稳定性提升。"
+ui.updatenotification$wndupdate.button,Go To Update Page,跳转到更新页面

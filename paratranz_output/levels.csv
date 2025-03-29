@@ -1,0 +1,205 @@
+﻿﻿levels.features.chasm.chasm,Chasm,深渊
+levels.features.chasm.yes,"Yes, I know what I'm doing",是的，我知道我在做什么
+levels.features.chasm.no,"No, I changed my mind",不，我改主意了
+levels.features.chasm.jump,Do you really want to jump into the chasm? A fall that far will be painful.,你确定要跳入深渊中？从这么高的地方摔下去一定很疼。
+levels.features.chasm.ondeath,You fell to death...,你落地过猛摔死了...
+levels.features.chasm.rankings_desc,Died on Impact,死于撞击
+levels.rooms.special.magicalfireroom$eternalfire.desc,"A wall of dense bright green fire is here, seemingly caused by magic. It's so dense that you can't move through it, and it ignites anything that gets too close. It shows no signs of burning down naturally, you'll need to use something to extinguish it.",这里竖立着一面似乎由魔法生成的亮绿色致密火墙。这面火墙足够致密以至于你无法通过，它还会点燃任何过于靠近的物体。火墙没有任何会自然熄灭的迹象，你得用点什么东西才能熄灭它。
+levels.rooms.special.sentryroom$sentry.name,red sentry,血色哨卫
+levels.rooms.special.sentryroom$sentry.desc,"This blood-red sentry seems to be positioned here to guard the treasure at the other end of this room. It will fire beams of disintegration magic at you if you step in the area it defends.\n\nIt's immune to all harmful effects and can see through invisibility, but seems to take a while to charge up before it starts firing.\n\nSomehow the sentry only wants to fire on you, as if it knows that the denizens of the dungeon are no threat to the treasure.","这红似鲜血的哨卫结晶像是被刻意安置在此，守卫着房间另一端的宝藏。如果你进入警戒区域，它就会向你发射解离光束。\n\n它对所有的负面效果都免疫，能一眼看穿隐形效果，但似乎需要充能一段时间才能开火。\n\n不知何故，哨卫只会向你开火，就好像它知道地牢里的居民对宝藏没有威胁一样。"
+levels.rooms.special.toxicgasroom$toxicvent.name,toxic vent,排毒气孔
+levels.rooms.special.toxicgasroom$toxicvent.desc,"A careless adventurer must have triggered this trap ages ago. Despite its inactive state, it's still spewing toxic gas into the room and shows no signs of stopping. You'll need some way to prevent damage from the gas if you want to explore this room.",一定是一个莽撞的冒险家在很久以前触发了这个陷阱。尽管处于不活跃状态，它仍在向房间中喷射有毒气体，而且没有停止的迹象。要想探索这个房间，你得想想办法避免毒气的伤害。
+levels.rooms.special.weakfloorroom$hiddenwell.name,Distant well,远处的井
+levels.rooms.special.weakfloorroom$hiddenwell.desc,"You can just make out a well in the depths below, perhaps there is something down there?",你隐约可以看到深处有一口井，也许这下面有些什么？
+levels.rooms.quest.blacksmithroom$questentrance.name,Mine entrance,矿井入口
+levels.rooms.quest.blacksmithroom$questentrance.desc,This ladder leads to an old mine just below the blacksmith's workshop.,这架梯子通往铁匠铺下方的一座旧矿井。
+levels.rooms.quest.ritualsiteroom$ritualmarker.name,Ritual marker,仪式标记
+levels.rooms.quest.ritualsiteroom$ritualmarker.desc,A painted marker for some dark ritual. Candles are usually placed on the four corners.,为某种黑暗仪式而画下的标记。蜡烛通常摆在四个角上。
+levels.rooms.quest.massgraveroom$bones.name,Mass grave,乱葬岗
+levels.rooms.quest.massgraveroom$bones.desc,"Bones litter the floor, what happened here?",遍地都是尸骨，这里到底发生过什么？
+levels.rooms.quest.mineentrance$questexit.name,Mine exit,矿井出口
+levels.rooms.quest.mineentrance$questexit.desc,"This ladder leads out of the mine, back into the blacksmith's workshop.",这架梯子通向矿井外，连通到铁匠铺。
+levels.traps.alarmtrap.name,alarm trap,警报陷阱
+levels.traps.alarmtrap.alarm,The trap emits a piercing sound that echoes throughout the dungeon!,陷阱产生的尖锐的警报声在地牢里回荡！
+levels.traps.alarmtrap.desc,This trap seems to be tied to a loud alarm mechanism. Triggering it will likely alert everything on the level.,这个陷阱看起来有着能造成很大响动的机制。触发它将使本层所有生物对这里产生警觉。
+levels.traps.blazingtrap.name,blazing trap,爆炎陷阱
+levels.traps.blazingtrap.desc,"Stepping on this trap will ignite a powerful chemical mixture, setting a wide area ablaze.",踩进这个陷阱会点燃某种极具力量的化学混合物，导致很大一块区域起火。
+levels.traps.burningtrap.name,burning trap,烈焰陷阱
+levels.traps.burningtrap.desc,"Stepping on this trap will ignite a chemical mixture, setting the surrounding area aflame.",踩进这个陷阱会点燃某种化学混合物，导致附近一块区域起火。
+levels.traps.chillingtrap.name,chilling trap,寒气陷阱
+levels.traps.chillingtrap.desc,"When activated, chemicals in this trap will rapidly freeze the air around its location.",被触发时，这个陷阱里的化学药剂会迅速冻结附近的空气。
+levels.traps.confusiontrap.name,confusion gas trap,致眩气体陷阱
+levels.traps.confusiontrap.desc,Triggering this trap will set a cloud of confusion gas loose within the immediate area.,触发这个陷阱将在附近释放出一片致眩气体。
+levels.traps.cursingtrap.name,cursing trap,诅咒陷阱
+levels.traps.cursingtrap.curse,Your worn equipment becomes cursed!,你身上的装备被诅咒了！
+levels.traps.cursingtrap.desc,This trap contains the same malevolent magic found in cursed equipment. Triggering it will curse some items in the immediate area.,这个陷阱充满了诅咒的力量。触发它会诅咒你身上的部分装备。
+levels.traps.disarmingtrap.name,disarming trap,缴械陷阱
+levels.traps.disarmingtrap.disarm,Your weapon is teleported away!,你手中的武器被传送走了！
+levels.traps.disarmingtrap.desc,"This trap contains very specific teleportation magic, which will warp the weapon of its victim to some other location.",这个陷阱包含着非常有针对性的传送魔法，它会将触发陷阱的受害者的武器传送到其他位置。
+levels.traps.disintegrationtrap.name,disintegration trap,解离陷阱
+levels.traps.disintegrationtrap.one,The trap disintegrates your %s!,陷阱解离了你的%s！
+levels.traps.disintegrationtrap.some,The trap disintegrates some of your %s!,陷阱解离了你一部分的%s！
+levels.traps.disintegrationtrap.ondeath,You were killed by the disintegration trap...,你被解离陷阱击杀...
+levels.traps.disintegrationtrap.desc,"When triggered, this trap will lance the nearest target with beams of disintegration, dealing significant damage and destroying items.\n\nThankfully the trigger mechanism isn't hidden.","被触发时，这个陷阱将会用解离射线袭击离它最近的目标，造成显著伤害的同时破坏物品。\n\n幸运的是，触发机关并没有被隐藏起来。"
+levels.traps.distortiontrap.name,distortion trap,重构陷阱
+levels.traps.distortiontrap.desc,"Built from strange magic of unknown origin, this trap will summon all manner of creatures to this location.",这种陷阱由来源不明的奇特魔法制作，触发后会召唤各式各样的怪物到这里。
+levels.traps.explosivetrap.name,explosive trap,爆炸陷阱
+levels.traps.explosivetrap.desc,This trap contains some powdered explosive and a trigger mechanism. Activating it will cause an explosion in the immediate area.,这个陷阱包含一些粉状炸药和一个触发机制。激活它会导致一定范围的爆炸。
+levels.traps.flashingtrap.name,flashing trap,闪光陷阱
+levels.traps.flashingtrap.desc,"On activation, this trap will ignite a potent flashing powder stored within, temporarily blinding, crippling, and injuring its victim.\n\nThe trap must have a large store of powder, as it can activate many times without breaking.","被触发时，这个陷阱将点燃储存在里面的强效闪光粉，使受害者暂时失明，残废，并受到伤害。\n\n这个陷阱的闪光粉储备显然很多，可以在损坏前触发很多次。"
+levels.traps.flocktrap.name,flock trap,羊群陷阱
+levels.traps.flocktrap.desc,"Perhaps a joke from some amateur mage, triggering this trap will create a flock of magical sheep.",也许是个来自一些业余法师的玩笑，触发这个陷阱就会创造一群魔法绵羊。
+levels.traps.frosttrap.name,frost trap,冰霜陷阱
+levels.traps.frosttrap.desc,"When activated, chemicals in this trap will rapidly freeze the air in a wide range around its location.",被触发时，这个陷阱里的化学药剂会迅速冻结附近大范围的空气。
+levels.traps.gatewaytrap.name,gateway trap,虫洞陷阱
+levels.traps.gatewaytrap.desc,This special teleportation trap can activate an infinite numbers of times and always teleports to the same location.,这种特殊的传送陷阱可以被反复激活并且总是通向同样的目的地。
+levels.traps.geysertrap.name,geyser trap,激流陷阱
+levels.traps.geysertrap.desc,"When triggered, this trap will cause a geyser of water to spew forth, damaging fiery enemies, knocking away all nearby characters, dousing fires, and converting the surrounding terrain to water.",被触发时，大量的水会从中喷涌而出，对火属性敌人造成伤害，击退周围所有角色，熄灭火焰并覆盖周遭的地形。
+levels.traps.gnollrockfalltrap.name,gnoll rockfall trap,豺狼落石陷阱
+levels.traps.gnollrockfalltrap.desc,"This rockfall trap is made with some form of magical assistance. When triggered, it will cause rocks to loosen and immediately fall from above in a 5x5 area around it. Due to the softer rocks in the area, it won't deal as much damage as a regular rockfall trap, but your armor also won't be effective against it. Rocks also won't fall in locations with an adjacent barricade, as they help hold the ceiling up.\n\n_This trap can't tell friend from foe, and so is just as harmful to the gnolls as it is to you._","这个落石陷阱在制作过程中注入了土石术法。触发时，该陷阱会导致在其周围5x5区域内的岩石松动并立即崩塌掉落。该处的岩石与寻常处相比更为松脆，因此其伤害性弱于常规的落石陷阱，但你的护甲却不能很好的抵御其伤害。此外，落石不会发生在支撑矿层结构的支架周边。\n\n_这个陷阱无法辨别敌友，因此对豺狼人和你都同样有效。_"
+levels.traps.grimtrap.name,grim trap,即死陷阱
+levels.traps.grimtrap.ondeath,You were killed by the blast of a grim trap...,你被即死陷阱的冲击彻底击杀...
+levels.traps.grimtrap.desc,"Extremely powerful destructive magic is stored within this trap, enough to instantly kill all but the healthiest of heroes. Triggering it will send a ranged blast of lethal magic towards the nearest character.\n\nThankfully the trigger mechanism isn't hidden.","非常强大的破坏魔法储存在这个陷阱里，足以瞬间杀死除了状态最佳的英雄外的所有生物。触发它将向最近的生物发送一个致命的远程冲击魔法。\n\n幸好的是，触发机关并没有被隐藏起来。"
+levels.traps.grippingtrap.name,gripping trap,捕猎陷阱
+levels.traps.grippingtrap.desc,"This trap latches onto the feet of whoever trigger it, damaging them and slowing their movement.\n\nDue to its simple nature, this trap can activate many times without breaking.","触发这个陷阱将使一对钳子合上，伤害受害者并将他们固定在这里。\n\n由于其简单的构造，这种陷阱可被多次激活而不损毁。"
+levels.traps.guardiantrap.name,guardian trap,守卫陷阱
+levels.traps.guardiantrap.alarm,The trap emits a piercing sound that echoes throughout the dungeon!,陷阱产生的尖锐的警报声在地牢里回荡！
+levels.traps.guardiantrap.desc,"This trap is tied to a strange magical mechanism, which will summon guardians and alert all enemies on the floor.",这个陷阱有着奇怪的魔法机制，它将召唤守卫并向将使本层所有生物对这里产生警觉。
+levels.traps.guardiantrap$guardian.name,summoned guardian,召唤守卫
+levels.traps.guardiantrap$guardian.desc,This blue apparition seems to be a summoned echo of one of the dungeon's stone guardians.,这个蓝色的幻影似乎是地牢中石像守卫的一个召唤映像。
+levels.traps.guardiantrap$guardian.desc_weapon,"While the statue itself is almost incorporeal, the _%s_ it's wielding looks real.",虽然雕像本身是几乎无形的，但它装备着的_%s_看起来是真家伙。
+levels.traps.oozetrap.name,ooze trap,淤泥陷阱
+levels.traps.oozetrap.desc,"This trap will splash out caustic ooze when activated, which will burn until it is washed away.",这个陷阱将会洒出腐蚀性的淤泥，它将烧灼你的皮肤直到被洗掉。
+levels.traps.pitfalltrap.name,pitfall trap,塌方陷阱
+levels.traps.pitfalltrap.triggered_hero,The ground starts to give way around you!,你周围的地板在迅速崩塌！
+levels.traps.pitfalltrap.triggered,The ground starts to give way around the triggered trap!,陷阱附近的地板在迅速崩塌！
+levels.traps.pitfalltrap.no_pit,the ground is too solid for a pitfall trap to work here.,这里的地面太结实了，塌方陷阱在这里无效。
+levels.traps.pitfalltrap.desc,"This trap is connected to a large trapdoor mechanism, and shortly after it is triggered anything near it will slip right through the ground and fall! It won't work in areas with especially solid floors though.",这种陷阱与一种大型活板门装置相连，在激活后会使周围的地板迅速崩塌！不过这类陷阱在坚实的地面上会失效。
+levels.traps.poisondarttrap.name,poison dart trap,毒镖陷阱
+levels.traps.poisondarttrap.ondeath,You were killed by the poison dart trap...,你被毒镖陷阱击杀...
+levels.traps.poisondarttrap.desc,"A small dart-blower must be hidden nearby, activating this trap will cause it to shoot a poisoned dart at the nearest target.\n\nThankfully the trigger mechanism isn't hidden.","附近一定藏着一个小型飞镖发射器，激活这个陷阱会导致它向最近的目标射出一个毒镖。\n\n幸好的是，触发机关并没有被隐藏起来。"
+levels.traps.rockfalltrap.name,rockfall trap,落石陷阱
+levels.traps.rockfalltrap.ondeath,You were crushed by the rockfall trap...,你被落石砸扁了...
+levels.traps.rockfalltrap.desc,"This trap is connected to a series of loose rocks above, triggering it will cause them to come crashing down over the entire room! If the trap isn't in a specific room, rocks will fall in an area around the trap instead.\n\nThankfully the trigger mechanism isn't hidden.","这个陷阱和头顶上一片松散的岩石相连，触发它会导致石块崩塌砸向整个房间！如果这种陷阱不是在某个房间内，石块会砸向陷阱周围的一定区域。\n\n幸运的是，触发机关并没有被隐藏起来。"
+levels.traps.shockingtrap.name,shocking trap,电击陷阱
+levels.traps.shockingtrap.desc,A mechanism with a large amount of energy stored into it. Triggering this trap will discharge that energy into a field around it.,一种储存着大量电能的机关。触发这个陷阱会让它把能量释放出来在附近形成小范围的电能场。
+levels.traps.stormtrap.name,storm trap,雷暴陷阱
+levels.traps.stormtrap.desc,A mechanism with a massive amount of energy stored into it. Triggering this trap will discharge that energy into a large electrical storm.,一种储存着庞大电能的机关。触发这个陷阱会让它把能量释放出来形成大范围的雷电风暴。
+levels.traps.summoningtrap.name,summoning trap,召唤陷阱
+levels.traps.summoningtrap.desc,Triggering this trap will summon a number of this area's monsters to this location.,触发这个陷阱将召唤本区域的一些怪物到这里。
+levels.traps.teleportationtrap.name,teleportation trap,传送陷阱
+levels.traps.teleportationtrap.desc,"Whenever this trap is triggered, everything around it will be teleported to random locations on this floor.",当这种陷阱被触发时，其周遭的所有东西都会被各自传送到本层的随机地点。
+levels.traps.tengudarttrap.desc,"Tengu has clearly been preparing for a fight. This trap will activate a hidden dart blower which will shoot a poison dart at the nearest thing that isn't Tengu.\n\nThe trap is so well made that the trigger mechanism is impossible to detect without magical aid. However the trap is visible for a moment when it is being set.","显然，天狗做了充分的战斗准备。这个陷阱会激活一个隐藏的飞镖发射器，向距离最近且不是天狗的单位发射一枚毒镖。\n\n陷阱的制造技巧极其高深，不使用魔法手段的话，触发装置完全无法找到。不过陷阱在刚被布置的短时间内是可以用肉眼观察到的。"
+levels.traps.toxictrap.name,toxic gas trap,毒气陷阱
+levels.traps.toxictrap.desc,Triggering this trap will set a cloud of toxic gas loose within the surrounding area.,触发这个陷阱将放出一片有毒气体到这附近。
+levels.traps.trap.rankings_desc,Killed by: %s,死于%s
+levels.traps.corrosiontrap.name,corrosive gas trap,腐蚀酸雾陷阱
+levels.traps.corrosiontrap.desc,Triggering this trap will set a cloud of deadly acidic gas loose within the immediate area.,触发这个陷阱将在附近释放出一片致命的强酸性雾气。
+levels.traps.warpingtrap.name,warping trap,扭曲陷阱
+levels.traps.warpingtrap.desc,"This trap is similar to a teleportation trap, but will also cause the hero to lose their knowledge of the floor's layout!",这种陷阱和传送陷阱颇为相似，不过它还会导致英雄忘却本层的地图与各种东西的方位！
+levels.traps.weakeningtrap.name,weakening trap,虚弱陷阱
+levels.traps.weakeningtrap.desc,"Dark magic in this trap sucks the energy out of anything that comes into contact with it. Powerful enemies may resist the effect, however.",陷阱中的黑暗魔法能够吸取任何接触物里的能量，不过强大的敌人能抵抗这种效果。
+levels.traps.worndarttrap.name,worn dart trap,老化飞镖陷阱
+levels.traps.worndarttrap.ondeath,You were killed by the worn dart trap...,你被老化飞镖陷阱击杀...
+levels.traps.worndarttrap.desc,"A small dart-blower must be hidden nearby, activating this trap will cause it to shoot at the nearest target.\n\nDue to its age it's not very harmful though, it isn't even hidden...","附近一定藏着一个小型飞镖发射器，激活这个陷阱会导致它向最近的目标射出一个飞镖。\n\n年久失修导致它并不怎么危险，触发机关甚至没有被隐藏起来..."
+levels.cavesbosslevel.wires_name,Exposed wiring,地表导线
+levels.cavesbosslevel.wires_desc,"The ground is partially dug up here, showing some large exposed wires. They must be connecting the various electrical machines together.\n\nThe wires must have some current running through them. If DM-300 steps here it may be able to draw power from them.","被挖掘的地面上露出粗大的导线，这些导线连接着周围的电力装置。\n\n导线中一定有电流流过。DM-300经过时可能会从导线中汲取一些能量。"
+levels.cavesbosslevel.energy_desc,"The ground here is sparking with electricity, and is harmful to step on. _The sparks seem to be gravitating in a certain direction..._ perhaps they lead to the power source?",这里的地面闪烁着电火花，直接踩上去会触电。_电火花似乎都在朝向某个位置..._也许它们指向电源？
+levels.cavesbosslevel.gate_name,Metal gate,金属城门
+levels.cavesbosslevel.gate_desc,"A large metal gate that blocks the path into the dwarven metropolis. The metal box in the center is producing a loud humming noise, it must be connected to the circuitry and machines nearby. Perhaps destroying DM-300 will open the gate?",一面高大的金属城门挡住了通往矮人都城的道路。门中间的金属盒嗡嗡作响，想必是与附近的电路与设备相连。也许击败DM-300能开启这扇大门？
+levels.cavesbosslevel.gate_desc_broken,"The gate must have been connected to DM-300 in some way, as it exploded when DM-300 was defeated. Now only broken pieces remain.",这扇大门一定是以某种形式与DM-300相连，因为在DM-300损坏时它也随之爆炸。现在这扇门炸得只剩下零星的碎片。
+levels.cavesbosslevel.water_desc,With all the electricity around here water might not always be safe...,周围奔涌着强大的电流，这里的水可能不太安全...
+levels.citybosslevel.throne_name,Throne,王座
+levels.citybosslevel.throne_desc,"This impressively large throne is the seat of the dwarven empire, now taken over by a power-mad necromancer.\n\nThere seems to be some magical or mechanical parts to the throne, Dwarf King may have additional power when sitting on it.","这座醒目的高大王座曾是矮人国王的席位，但现在它已属于一位沉湎于力量的死灵法师。\n\n说不清是不是有什么魔法或是机械装置与王座相连，矮人国王在上面坐着时会拥有额外的能力。"
+levels.citybosslevel.summoning_name,Summoning pedestal,唤灵基座
+levels.citybosslevel.summoning_desc,"This pedestal has a large opening in the center, which is practically radiating with dark energy.\n\nDwarf King uses these pedestals as focal points for his necromantic magic, and can summon minions to them. The pedestal must charge for a few turns before the minion appears, and the type of minion being summoned is telegraphed by the building magical power.","唤灵基座的中央有一个巨大的开口，时不时涌出一些黑暗能量。\n\n矮人国王利用这些基座来聚焦死灵魔法，为其召唤奴仆。召唤物的生成需要一段时间的能量聚集，召唤物的类型取决于聚积于此的魔力。"
+levels.caveslevel.grass_name,Fluorescent moss,荧光苔藓
+levels.caveslevel.high_grass_name,Fluorescent mushrooms,荧光蘑菇
+levels.caveslevel.water_name,Freezing cold water,冰冷水潭
+levels.caveslevel.entrance_desc,The ladder leads up to the upper depth.,通向上一层的梯子。
+levels.caveslevel.exit_desc,The ladder leads down to the lower depth.,通向下一层的梯子。
+levels.caveslevel.high_grass_desc,Huge mushrooms block the view.,高耸的蘑菇群遮挡了你的视线。
+levels.caveslevel.wall_deco_desc,A vein of some ore is visible on the wall. Gold?,岩壁上能隐约看见金属矿脉的纹路，难道是黄金？
+levels.caveslevel.bookshelf_desc,Who would need a bookshelf in a cave?,到底会有谁需要在洞窟里摆上这么个书架？
+levels.citylevel.water_name,Suspiciously colored water,异色水潭
+levels.citylevel.high_grass_name,High blooming flowers,茂盛花朵
+levels.citylevel.entrance_desc,A ramp leads up to the upper depth.,通向上一层的斜坡。
+levels.citylevel.exit_desc,A ramp leads down to the lower depth.,通向下一层的斜坡。
+levels.citylevel.deco_desc,Several tiles are missing here.,这里少了一些地砖。
+levels.citylevel.sp_desc,Thick carpet covers the floor.,厚地毯覆盖着地板。
+levels.citylevel.statue_desc,The statue depicts some dwarf standing in a heroic stance.,这尊雕像刻画出了一位摆出英勇姿态的矮人。
+levels.citylevel.bookshelf_desc,The rows of books on different disciplines fill the bookshelf.,不同学科的书排满了书架。
+levels.hallslevel.water_name,Cold lava,低温岩浆
+levels.hallslevel.grass_name,Embermoss,余烬苔藓
+levels.hallslevel.high_grass_name,Emberfungi,余烬蘑菇
+levels.hallslevel.statue_name,Pillar,台柱
+levels.hallslevel.water_desc,"It looks like lava, but it's cold and probably safe to touch.",看起来如同岩浆一般，不过没有感受到热度，应该可以碰触。
+levels.hallslevel.statue_desc,The pillar is made of real humanoid skulls. Awesome.,这个柱子由货真价实的人形生物头骨垒成。酷毙了。
+levels.hallslevel.bookshelf_desc,Books in ancient languages smoulder in the bookshelf.,用远古语言写就的书籍堆积在书架里。
+levels.level.hidden_trap,A hidden %s activates!,一个隐藏的%s被触发了！
+levels.level.chasm_name,Chasm,深渊
+levels.level.floor_name,Floor,地板
+levels.level.grass_name,Grass,草
+levels.level.water_name,Water,水潭
+levels.level.wall_name,Wall,墙壁
+levels.level.closed_door_name,Closed door,关着的门
+levels.level.open_door_name,Open door,开着的门
+levels.level.entrace_name,Depth entrance,楼层入口
+levels.level.exit_name,Depth exit,楼层出口
+levels.level.embers_name,Embers,余烬
+levels.level.furrowed_grass_name,Furrowed vegetation,枯萎的植被
+levels.level.locked_door_name,Locked door,锁着的门
+levels.level.crystal_door_name,Crystal door,水晶之门
+levels.level.pedestal_name,Pedestal,基座
+levels.level.barricade_name,Barricade,路障
+levels.level.high_grass_name,High grass,高草
+levels.level.locked_exit_name,Locked depth exit,锁着的楼层出口
+levels.level.unlocked_exit_name,Unlocked depth exit,开放的楼层出口
+levels.level.well_name,Well,井
+levels.level.empty_well_name,Empty well,干涸的井
+levels.level.statue_name,Statue,雕像
+levels.level.inactive_trap_name,Triggered trap,已触发的陷阱
+levels.level.bookshelf_name,Bookshelf,书架
+levels.level.alchemy_name,Alchemy pot,炼金釜
+levels.level.default_name,???,???
+levels.level.chasm_desc,You can't see the bottom.,你看不到底。
+levels.level.water_desc,In case of burning step into the water to extinguish the fire.,进入水潭中可熄灭身上的火焰。
+levels.level.entrance_desc,Stairs lead up to the upper depth.,通向上一层的楼梯。
+levels.level.exit_desc,Stairs lead down to the lower depth.,通向下一层的楼梯。
+levels.level.embers_desc,Embers cover the floor.,地上散落着余烬。
+levels.level.high_grass_desc,Dense vegetation blocks the view.,茂密的植被遮挡了你的视线。
+levels.level.locked_door_desc,"This door is locked, you need a matching key to unlock it.",这扇门锁着，而你需要匹配的钥匙才能打开它。
+levels.level.crystal_door_desc,"This locked door is made of magical crystal. You can see through, but you'll need a crystal key to open it.",这扇锁着的门由魔力水晶铸造而成。你的视线可以穿过它，但你的身体不能，还是找找对应的水晶钥匙吧。
+levels.level.locked_exit_desc,Heavy bars block the stairs leading down.,沉重的铁栏杆封锁住了通往下一层的楼梯。
+levels.level.barricade_desc,The wooden barricade is firmly set but has dried over the years. Might it burn?,木栅栏依然坚固，但早已风干多年。或许可以点燃烧掉？
+levels.level.inactive_trap_desc,The trap has been triggered before and it's not dangerous anymore.,这个陷阱已经被触发过了，现在一点也不危险。
+levels.level.statue_desc,"Someone wanted to adorn this place, but failed, obviously.",有人想装饰一下这里，很显然，它没能成功...
+levels.level.alchemy_desc,This pot is filled with magical water. Items can be mixed into the pot to create something new!,这口炼金釜中充满了魔力之水。物品可以在里面共炼以制造新的物品。
+levels.level.empty_well_desc,The well has run dry.,这座井已经枯竭了。
+levels.level$feeling.chasm_title,chasm floor,深渊层
+levels.level$feeling.water_title,water floor,流水层
+levels.level$feeling.grass_title,grass floor,草木层
+levels.level$feeling.dark_title,dark floor,黑暗层
+levels.level$feeling.large_title,large floor,广阔层
+levels.level$feeling.traps_title,traps floor,陷阱层
+levels.level$feeling.secrets_title,secrets floor,隐秘层
+levels.level$feeling.chasm_desc,Your steps echo across the dungeon.,你的脚步声在地牢中回荡不绝。
+levels.level$feeling.water_desc,You hear water splashing around you.,你听到周围水花四处飞溅的声音。
+levels.level$feeling.grass_desc,The smell of vegetation is thick in the air.,浓郁的草木气息弥漫在空气中。
+levels.level$feeling.dark_desc,You can hear enemies moving in the darkness.,你能听到敌人在暗中潜伏的声音。
+levels.level$feeling.large_desc,This dungeon floor seems unusually large.,这层地牢的规模似乎不同寻常的广阔。
+levels.level$feeling.traps_desc,The ground seems especially treacherous here.,这层地牢的地面陷阱密布，暗藏杀机。
+levels.level$feeling.secrets_desc,The atmosphere hints that this floor hides many secrets.,这层地牢的气氛暗示着潜藏其中的秘密。
+levels.mininglevel.wall_desc,"A smooth rock wall that's a little softer than usual. You can mine through it with your pickaxe, but it'll take some effort and increase your hunger a bit.",不算太硬的平整岩壁。你可以用镐子挖过去，只是这样做很费力，会使你饿得更快。
+levels.mininglevel.gold_extra_desc,You can probably mine it out with your pickaxe.,你也许能用镐子把它挖出来。
+levels.mininglevel.crystal_name,Crystal spike,水晶尖刺
+levels.mininglevel.boulder_name,Boulder,岩砾
+levels.mininglevel.crystal_desc,"There is a large and colorful crystal outcropping here. These crystals are fragile and can easily be broken with a pickaxe, or will break if something is mined next to it.",这里冒出了一个硕大的彩色水晶。这种水晶很脆弱，可以使用镐子轻易地破坏掉。挖掘其临近位置也可以将其破坏。
+levels.mininglevel.boulder_desc,There is a large boulder blocking the way. It should be fairly easy to break with a pickaxe.,这里有一块巨大的岩砾阻挡了去路。用镐子应当可以轻易地破坏掉它。
+levels.mininglevel.barricade_desc,"The wooden barricade is firmly set and acts as a support for the ceiling.\n\nThis was probably constructed by the gnolls to give some protection against falling rocks. _Any adjacent cells will be protected from rockfall traps and attacks._\n\nIt looks like it would burn just as well as any other barricade.","此处的木栅栏稳当地嵌入了矿层中，充当着矿层顶部的支撑。\n\n这些设施大概是豺狼人为了防止落石做制的临时设施。_所有相邻的地格都不会受到落石攻击与陷阱的影响。_\n\n不过看起来和地牢各处见到的木栅栏一样，应该也是能烧起来的。"
+levels.prisonlevel.water_name,Dark cold water,阴冷水潭
+levels.prisonlevel.empty_deco_desc,There are old blood stains on the floor.,其上仍残留着干涸的血迹。
+levels.prisonlevel.bookshelf_desc,This is probably a vestige of a prison library. Might it burn?,这个书架可能是监狱图书馆的残留物。烧掉怎么样？
+levels.sewerlevel.water_name,Murky water,浑浊水潭
+levels.sewerlevel.empty_deco_desc,Wet yellowish moss covers the floor.,潮湿且发黄的苔藓覆盖其上。
+levels.sewerlevel.bookshelf_desc,The bookshelf is packed with cheap useless books. Might it burn?,这个书架塞满了没用的成功学书籍。烧掉怎么样？

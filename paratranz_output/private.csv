@@ -1,0 +1,115 @@
+﻿﻿items.heap.grave,Hero's Gravestone,英雄墓碑
+items.heap.rip,Rest In Peace,安息
+scenes.hallofheroesscene.title,Hall of Heroes,英雄殿堂
+scenes.hallofheroesscene.no_games,There are no heroes on this page,这一页没有任何英雄
+scenes.hallofheroesscene.page,Page %1$d/%2$d,第%1$d/%2$d页
+scenes.heroselectscene.rename_hero,Rename Hero,重命名英雄
+scenes.heroselectscene.rename_title,Enter a Hero Name,输入英雄名称
+scenes.heroselectscene.rename,Rename,重命名
+scenes.heroselectscene.revert,Revert,撤销
+scenes.supporterscene.gplay_msg,"If you enjoy Shattered Pixel Dungeon and want to help me keep making it, _please consider becoming a supporter!_ There are even some fun cosmetic extras which are exclusively available to supporters!\n\nYou can press any of the buttons below to find out more.","如果您在破碎的像素地牢中收获了快乐，并且希望帮助它变得更好...请务必考虑成为一名赞助者！你还能获得一些独属于赞助者的有趣装饰！\n\n点击下列任意按钮以了解更多。"
+scenes.supporterscene.loading,Loading...,读取中...
+scenes.supporterscene.failed,"Couldn't load payment info!\n\nMake sure you're connected to the internet.","无法加载支付信息！\n\n请确认您已连接到互联网。"
+scenes.supporterscene.silver,Silver Supporter,白银阶赞助者
+scenes.supporterscene.gold,Golden Supporter,黄金阶赞助者
+scenes.supporterscene.shattered,Shattered Supporter,破碎阶赞助者
+scenes.supporterscene.purchased,Purchased!,购买成功啦！
+scenes.supporterscene.pending,Payment Pending...,正在确认您的付款...
+scenes.titlescene.thank_you,Thank You!,谢谢！
+scenes.titlescene.games_outdated_warn,"Starting with the next game update (%1$s) Google Play Games will require Android %2$s and will therefore be disabled on this device.\n\nNone of your synced data will be lost, but this device will not be able to sync any new data, or unlock new Google Play achievements.","自下次游戏版本更新(%1$s)开始，Google Play Games要求系统版本达到安卓%2$s以上，因此该设备上会停用相关服务。\n\n你已同步的数据不会被丢失，但是该设备不能再同步新数据或解锁新的Google Play成就。"
+ui.donationbutton.pls_1,Please Consider Donating,请考虑捐献
+ui.donationbutton.pls_2,Donations & Rewards,捐献与奖励
+ui.donationbutton.pls_3,"Donate, get Rewards!",捐献并获得奖励！
+ui.donationbutton.pls_4,Donations & Extras,捐献与更多
+ui.donationbutton.ty_1,Thank You!,谢谢！
+ui.donationbutton.ty_3,Thanks for Donating!,感谢您的捐赠！
+ui.donationbutton.ty_2,Thanks!,谢谢！
+windows.wndanalytics.title,Share Gameplay Data,上传游戏数据
+windows.wndanalytics.policy,Full Privacy Policy,完整的隐私条款
+windows.wndanalytics.text,"You can help support Shattered Pixel Dungeon by sharing your gameplay data.\n\nThis information is extremely helpful when making game design decisions, so sending data is a great way to support the game by playing.\n\nNo personally identifiable information is collected, and data usage is minimal.","您可以通过分享游戏数据的方式来支持破碎的像素地牢。\n\n这些信息对于游戏设计非常有帮助。发送它们是个绝妙的支持方法。可谓边玩耍边帮忙。\n\n不会有任何与个人身份相关的数据被收集。数据的使用也会被保持在较低限度。"
+windows.wndsupportertiers$tier1info.title,Silver Supporter,白银阶赞助者
+windows.wndsupportertiers$tier1info.intro,Silver supporters get rewards focused on the game's heroes! You can also upgrade to a higher supporter tier any time.,白银阶赞助者会获得一些与角色相关的回报！你可以随时升级到更高赞助档位。
+windows.wndsupportertiers$tier1info.menu,Silver Menu Button,银质菜单键
+windows.wndsupportertiers$tier1info.notes,5 Custom Note Limit,5页自定义记录上限
+windows.wndsupportertiers$tier1info.rename_title,Name your Hero,英雄命名
+windows.wndsupportertiers$tier1info.rename_desc,Characters and the rankings list will refer to you by name!,英雄的名字将会由你决定，同时会出现在排行榜中！
+windows.wndsupportertiers$tier1info.graves_title,Gravestones,墓志铭
+windows.wndsupportertiers$tier1info.graves_desc,Remains from fallen heroes now appear in a special gravestone with a unique epitaph!,逝去英雄的遗骸现在会和一块有着独特碑文的墓碑产生！
+windows.wndsupportertiers$tier2info.title,Golden Supporter,黄金阶赞助者
+windows.wndsupportertiers$tier2info.intro,"In addition to silver rewards, Golden Supporters get more renaming options and a big expansion to the game's rankings!",在白银阶回报的基础上，黄金阶赞助者会额外获得命名的机会以及更大的排行榜容量！
+windows.wndsupportertiers$tier2info.silver,All Silver Rewards,所有白银阶回报
+windows.wndsupportertiers$tier2info.menu,Golden Menu Button,金质菜单键
+windows.wndsupportertiers$tier2info.notes,10 Custom Note Limit,10页自定义记录上限
+windows.wndsupportertiers$tier2info.rename_title,Rename Equipment,装备重命名
+windows.wndsupportertiers$tier2info.rename_desc,Give your favourite gear epic custom names!,给你喜欢的装备赋予史诗级的自定义名称！
+windows.wndsupportertiers$tier2info.hall_title,Hall of Heroes,英雄殿堂
+windows.wndsupportertiers$tier2info.hall_desc,Four separate rankings pages with support for custom notes!,四个支持自定义注释的独立排名页面！
+windows.wndsupportertiers$tier3info.title,Shattered Supporter,破碎阶赞助者
+windows.wndsupportertiers$tier3info.intro,Shattered Supporters get everything in the previous tiers plus a game-wide golden trim! Thank you so much for your support!,破碎阶支持者们在获得之前所有档位的回报的基础上，还能获得贯穿整个游戏的金质边框装饰！万分感谢您如此的支持！
+windows.wndsupportertiers$tier3info.golden,All Golden Rewards,所有黄金阶回报
+windows.wndsupportertiers$tier3info.notes,20 Custom Note Limit,20页自定义记录上限
+windows.wndsupportertiers$tier3info.menu,Emerald Menu Button,绿宝石菜单键
+windows.wndsupportertiers$tier3info.hall_title,Extended Hall of Heroes,英雄殿堂扩容
+windows.wndsupportertiers$tier3info.hall_desc,Six additional pages for the hall of heroes!,额外六页容量！
+windows.wndsupportertiers$tier3info.interface_title,Golden Interface,黄金用户界面
+windows.wndsupportertiers$tier3info.interface_desc,The game's windows and main interface get a shiny golden trim!,拥有金色边框的华丽游戏界面！
+windows.wndsupportertiers$tier3info.enable_gold,Enable Golden UI,开启金色UI
+windows.wndsupportertiers$tier3info.disable_gold,Disable Golden UI,关闭金色UI
+windows.wndsupportertiers$iconbutton.normal,Set Icon to Normal,恢复菜单键图标
+windows.wndsupportertiers$iconbutton.silver,Set Icon to Silver,选用白银图标
+windows.wndsupportertiers$iconbutton.golden,Set Icon to Golden,选用黄金图标
+windows.wndsupportertiers$iconbutton.shattered,Set Icon to Shattered,选用破碎图标
+windows.wndsupportertiers$paymentbutton.purchase,Purchase - %s,捐献-%s
+windows.wndsupportertiers$paymentbutton.pending,Payment Pending...,正在确认您的付款...
+windows.wndgame.rename_equip,Rename Equipment,装备重命名
+windows.wndgame.select_item,select an item,选择一样物品
+windows.wndgame.dialog_title,Enter an Item Name,输入新的物品名称
+windows.wndgame.dialog_rename,Rename,重命名
+windows.wndgame.dialog_revert,Revert,撤销
+windows.wndgoogleplaygames.title,Google Play Games,Google Play游戏
+windows.wndgoogleplaygames.text,"Shattered Pixel Dungeon uses Google Play Games to support extra features!\n\nBy connecting to Google Play Games Shattered Pixel Dungeon can:\n- Sync rankings and badges across devices\n- Unlock Google Play achievements\n\nYou can disconnect anytime, and data usage is kept to a minimum.","破碎的像素地牢通过Google Play来提供额外内容！\n\n破碎的像素地牢能够在连接到Google Play时：\n-在设备间同步成就和排行榜\n-解锁Google Play的游戏成就\n\n您可以随时断开连接。对您数据的使用将会保持在最低水平。"
+windows.wndgoogleplaygames.connect,Connect,连接
+windows.wndgoogleplaygames.disconnect,Disconnect,断开
+windows.wndgoogleplaygames.sign_out_info,You can sign out of Google Play Games from your device's settings menu or the Google Play Games app.,你可以通过你的设备设置菜单或者Google Play Games应用来登出Google Play Games服务。
+windows.wndgoogleplaygames.close,Close,关闭
+windows.wndranking.copy,Copy to Hall of Heroes,复制到英雄殿堂
+windows.wndranking.move,Move,移动
+windows.wndranking.page,Page %d,第%d页
+windows.wndranking.move_where,Which Hall of Heroes page would you like to move this record to?,你想将这条记录转移到英雄殿堂的哪一页？
+windows.wndranking.page_full,"That page is full, you must remove records from it first.",此页已满，必须先删除一条记录。
+windows.wndranking.remove,Remove,移除
+windows.wndranking.remove_warn,"Are you sure that you want to remove this record from the Hall of Heroes?\n\nIf it is not present in your rankings page it will be permanently lost.","你确定将这个记录从英雄殿堂中删除吗？\n\n这个记录将会被永久移除，除非排行榜界面仍然存有相同记录。"
+windows.wndranking.notes,Notes,笔记
+windows.wndranking.custom_note,Custom Note,自定义笔记
+windows.wndranking.save,Save,保存
+windows.wndranking.cancel,Cancel,取消
+windows.wndranking.already_there,This record is already in the Hall of Heroes.,这个记录已经在英雄殿堂里了。
+windows.wndranking.copy_where,Which Hall of Heroes page would you like to copy this record to?,你想将这条记录复制到英雄殿堂的哪一页？
+windows.wndsettings$datatab.analytics,Share Gameplay Data,上传游戏数据
+windows.wndsettings$datatab.googleplaygames,Google Play Games,Google Play游戏
+windows.wndsupportprompt.please_consider,"If you enjoy ShatteredPD and want to help me keep making it, please consider supporting the game!",如果您觉得破碎的像素地牢好玩，并且愿意帮助我继续开发下去，请务必考虑赞助一下！
+windows.wndsupportprompt.rating,"_- Give the game an honest rating or review._ These increase the game's visibility, which helps more people find it!",_-为本游戏留下一个耿直的评分或评论。_这能显著提高本游戏的推广度，并帮助更多玩家发现它！
+windows.wndsupportprompt.support,"_- Support the game directly._ By supporting you directly contribute to Shattered's development, plus you'll get a few extras as a thank you!",_-直接支持本游戏。_以赞助的形式，您将直接为本游戏的开发带来帮助，并且可以获得额外的小谢礼！
+windows.wndsupportprompt.thank_you,"Thanks for your time, happy dungeoneering!",承蒙照顾了，祝愿您地牢探索愉快！
+windows.wndsupportprompt.rating_prompt,Leave a Rating/Review,留个评分/评论
+windows.wndsupportprompt.rating_info,"_Thank you!_ You should have just gotten an in-game review prompt.\n\nIn case you didn't, you can also leave a rating/review directly on the game's store page.","_非常感谢！_游戏内现在应该会显示出一个评分界面。\n\n如果没有出现，您也可以直接在游戏的商店页面留下评分或评价。"
+windows.wndsupportprompt.rating_direct,Go to Store Page,前往商店页面
+windows.wndsupportprompt.support_prompt,Open Supporter Screen,打开赞助者界面
+ui.customnotebutton.limit_support_text,You can also increase your custom note limit by making a supporter purchase!,你也可以通过赞助来扩增可拥有的自定义记录的页数！
+ui.customnotebutton.limit_support_button,Get More Note Space,扩增自定义记录上限
+bones.here_lies_nameless,Here lies a nameless %s.,这里埋葬着一位默默无闻的%s。
+bones.here_lies_named,Here lies %1$s the %2$s.,这里埋葬着%1$s，一位%2$s。
+bones.pacifist,"Renowned as a pacifist, they perished without taking another life.",作为一位和平主义者而闻名，在死亡前没有杀害任何生命。
+bones.rats,"An esteemed puncher of rats, they defeated %d enemies before perishing.",一位尊敬的老鼠歼灭者，在死亡前击杀了%d名敌人。
+bones.crabs,"A skilled crusher of crabs, they defeated %d enemies before perishing.",一位熟练的螃蟹粉碎者，在死亡前击杀了%d名敌人。
+bones.undead,"A terror to the explosive undead, they defeated %d enemies before perishing.",一位易爆骷髅的梦魇，在死亡前击杀了%d名敌人。
+bones.thieves,"A hunter of crazed thieves, they defeated %d enemies before perishing.",一位疯狂小偷猎杀者，在死亡前击杀了%d名敌人。
+bones.bats,"A clipper of bat wings, they defeated %d enemies before perishing.",一位嗜血蝠翼绞杀者，在死亡前击杀了%d名敌人。
+bones.brutes,"A crusher of gnoll helmets, they defeated %d enemies before perishing.",一位暴徒头盔粉碎者，在死亡前击杀了%d名敌人。
+bones.monks,"Experienced with fighting dwarven warriors, they defeated %d enemies before perishing.",拥有与矮人作战的丰富经验，在死亡前击杀了%d名敌人。
+bones.golems,"A destroyer of dwarven inventions, they defeated %d enemies before perishing.",一位矮人造物毁灭者，在死亡前击杀了%d名敌人。
+bones.demons,"A legendary demon hunter, they defeated %d enemies before perishing.",一位传奇恶魔猎手，在死亡前击杀了%d名敌人。
+bones.yog,"Challenger of a demon god, they defeated %d enemies before perishing.",恶魔邪神的挑战者，在死亡前击杀了%d名敌人。
+bones.forgot_waterskin,A shame that in the throes of death they forgot to drink from their waterskin.,在其弥留之际却没能想起喝下水袋中的露水，不禁令人唏嘘。
+bones.forgot_potion,A shame that in the throes of death they forgot to drink a Potion of Healing.,在其弥留之际却没能想起喝下一瓶治疗药剂，不禁令人唏嘘。
+bones.rest_in_peace,"They leave their possessions in this world, as they pass on to the next. In hopes that another hero may avoid their grisly fate.",其迈向往生之际，将所有财物都留于此世。藉此希望后来的英雄不必再遭受其悲惨境遇。

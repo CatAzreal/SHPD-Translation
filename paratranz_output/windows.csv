@@ -1,4 +1,5 @@
-﻿﻿windows.wndblacksmith.prompt,"Okay, a deal's a deal. Here's what I can do for you. I only work with identified and uncursed items.\n\n_Current Favor: %d_",好吧，按之前说好的，我得帮你做点事。我干活只收鉴定过还没诅咒的物品。\n\n_当前人情：%d_
+key,source,target
+windows.wndblacksmith.prompt,"Okay, a deal's a deal. Here's what I can do for you. I only work with identified and uncursed items.\n\n_Current Favor: %d_",好吧，按之前说好的，我得帮你做点事。我干活只收鉴定过还没诅咒的物品。\n\n_当前人情：%d_
 windows.wndblacksmith.pickaxe,_Pickaxe (%d favor):_ I guess I can give you the pickaxe back if you want. I've got plenty more.,_镐子(%d人情)：_你想要的话，这镐子可以给你。毕竟我有的是。
 windows.wndblacksmith.pickaxe_verify,"You sure you want dis old thing? The rock around here isn't soft like in the mine, so you won't be able to do any more digging with it.",你真想要这个破烂吗？这里的石头可不像矿井里的，你没法再拿它挖墙了。
 windows.wndblacksmith.pickaxe_free,"Eh, you did a pretty good job, I'll give it to you for free.",行，你干的不错，这个破烂白送你了。
@@ -28,11 +29,15 @@ windows.wndchooseability.cancel,I'll decide later,朕将稍后决断
 windows.wndchooseability.are_you_sure,Are you sure you want to choose this ability?,陛下确定要选择这项技能吗？
 windows.wndchooseability.yes,"Yes, I've made my choice.",正是，朕意已决。
 windows.wndchooseability.no,"No, I'll decide later.",不了，朕稍候再断。
+windows.wndchooseability.random_title,Random Armor Ability,随机护甲技能
+windows.wndchooseability.random_sure,Are you sure you want to choose your armor ability randomly?,你确定要选择随机一个护甲技能吗？
 windows.wndchoosesubclass.message,"As the mask fits over your face, your eyesight fades and visions of new power flood into your mind. How will you direct the mask's power?",面具激动地贴附到你的脸上。忽然，眼前的景象极速消逝，你什么都看不见了——不，是什么都看得见了，林林总总的新技巧和新能力灌入你的脑海，斑斓琳琅。您想要如何驾驭面具的魔力？
 windows.wndchoosesubclass.cancel,I'll decide later,我将稍后决定
 windows.wndchoosesubclass.are_you_sure,Are you sure you want to choose this subclass?,您确定要选择这条专精道路吗？
 windows.wndchoosesubclass.yes,"Yes, I've made my choice.",是的，我决定好了。
 windows.wndchoosesubclass.no,"No, I'll decide later.",不了，我稍后决定。
+windows.wndchoosesubclass.random_title,Random Subclass,随机专精
+windows.wndchoosesubclass.random_sure,Are you sure you want to choose a subclass randomly?,你确定要选择随机一个专精吗？
 windows.wndclass.mastery,Mastery,专精
 windows.wndclericspells.cast_title,cast a spell,施放一个法术
 windows.wndclericspells.info_title,spell info,法术信息
@@ -52,6 +57,9 @@ windows.wndenergizeitem.prompt,Energize an Item,提炼一件物品
 windows.wndenergizeitem.energize,Turn into %d energy,转化为%d点能量
 windows.wndenergizeitem.energize_1,Turn 1 into %d energy,转化一个为%d点能量
 windows.wndenergizeitem.energize_all,Turn all into %d energy,转化全部为%d点能量
+windows.wndenergizeitem.trinket_warn,Are you sure you want to energize your trinket? You'll get 5 energy back but _the trinket will be permanently lost!_,你确定要炼化你的饰物吗？你会获得5点炼金能量返还，但_饰物将会永远消失！_
+windows.wndenergizeitem.trinket_yes,"Yes, energize it",是的，将其炼化
+windows.wndenergizeitem.trinket_no,"No, nevermind",不，算了
 windows.wnderror.title,ERROR,错误
 windows.wndgame.settings,Settings,设置
 windows.wndgame.challenges,Challenges,挑战
@@ -246,23 +254,22 @@ windows.wndscorebreakdown.treasure_title,Treasure,寻宝
 windows.wndscorebreakdown.treasure_desc,Based on gold collected and held item value.,基于收集的金币与随身物品的价值。
 windows.wndscorebreakdown.treasure_desc_old,Based on gold collected.,基于收集的金币。
 windows.wndscorebreakdown.explore_title,Exploration,探索
-windows.wndscorebreakdown.explore_desc,"Based on floors with all items found, all secrets found, and all puzzles solved.",基于完全收集物品，发现所有秘密，并且解开所有谜题的楼层数量。
+windows.wndscorebreakdown.explore_desc,"Based on floors explored. Reduced by missing items or hidden doors, or unsolved puzzles.",基于已探索的楼层。遗漏物品、隐藏门道与未解谜题会降低分数。
 windows.wndscorebreakdown.bosses_title,Bosses,Boss战
-windows.wndscorebreakdown.bosses_desc,"Based on bosses defeated, reduced by standing in avoidable attacks during boss fights.",基于击败的Boss数量，承受Boss战中可避免的伤害会降低该项得分。
+windows.wndscorebreakdown.bosses_desc,Based on bosses defeated. Reduced by standing in avoidable attacks during boss fights.,基于已击败的boss。在boss战中受到可规避的攻击会降低分数。
 windows.wndscorebreakdown.quests_title,Quests,任务
-windows.wndscorebreakdown.quests_desc,Based on quests completed.,基于完成的任务。
+windows.wndscorebreakdown.quests_desc,Based on quests completed. Reduced by taking avoidable attacks or missing quest score.,基于已完成的任务。受到可规避的攻击或未完成任务目标会降低分数。
 windows.wndscorebreakdown.win_multiplier,Win Multiplier,通关倍率
 windows.wndscorebreakdown.challenge_multiplier,Challenge Multiplier,挑战倍率
 windows.wndscorebreakdown.total,Total Score,总分
 windows.wndscorebreakdown.old_score_desc,"Games started prior to v1.3 have fewer scoring categories, but progression is ~50% larger and treasure has a higher cap",在v1.3版本之前开始的游戏得分项目较少，但来自进度项目的得分会增加约50%，并且来自寻宝项目的得分上限也会增加。
 windows.wndsettings$displaytab.title,Display Settings,显示设置
 windows.wndsettings$displaytab.fullscreen,Fullscreen,全屏模式
-windows.wndsettings$displaytab.saver,Power Saver,省电模式
-windows.wndsettings$displaytab.saver_desc,"Power Saver mode draws the game at a reduced size and scales it up to fit your screen.\n\nThis will make graphics less crisp and enlarge the UI slightly, but will also improve performance and battery life.\n\nYou may need to restart the game for changes to take effect.",省电模式会减少游戏的分辨率，同时也能使其和你的设备屏幕相衬。\n\n这会让游戏画面稍显扭曲并且增大用户界面的大小，但这样能够提高游戏效能和电池寿命。\n\n你需要重启游戏使此设定生效。
+windows.wndsettings$displaytab.hide_navigation,Hide Navigation Bar,隐藏导航栏
+windows.wndsettings$displaytab.hide_gesture,Hide Gesture Bar,隐藏手势栏
 windows.wndsettings$displaytab.okay,Okay,开启
 windows.wndsettings$displaytab.cancel,Cancel,取消
-windows.wndsettings$displaytab.portrait,Switch to portrait,竖屏模式
-windows.wndsettings$displaytab.landscape,Switch to landscape,横屏模式
+windows.wndsettings$displaytab.landscape,Force landscape,强制横屏
 windows.wndsettings$displaytab.brightness,Brightness,亮度
 windows.wndsettings$displaytab.dark,Dark,暗
 windows.wndsettings$displaytab.bright,Bright,亮
@@ -330,7 +337,7 @@ windows.wndtradeitem.sell_1,Sell 1 for %dg,卖出1个以获得%d金币
 windows.wndtradeitem.sell_all,Sell all for %dg,全部卖出以获得%d金币
 windows.wndupgrade.title,Upgrade an Item,升级一件物品
 windows.wndupgrade.desc,Upgrading an item permanently improves it:,升级这件物品会永久提升其如下属性：
-windows.wndupgrade.remaining,You have _%d_ upgrade items left.,你还有_%d个_可用的升级用物品。
+windows.wndupgrade.remaining,You have _%d_ upgrade items left.,你还剩有_%d个_升级用物品。
 windows.wndupgrade.unided,"You don't know the properties of this item, its un-upgraded state is shown here.",你并不知道这件物品的属性，此处显示的是其未被升级的状态。
 windows.wndupgrade.unknown_ring,"You don't know what this ring's effect is, and so have no idea what upgrading it will do.",你并不知道这枚戒指的效果，因此无从得知升级对其有何作用。
 windows.wndupgrade.cursed,Upgrading this item also has a 33% chance to cleanse its curse.,升级这件物品还有33%的概率净化其诅咒。
@@ -340,10 +347,14 @@ windows.wndupgrade.enchant,Upgrading this item also has a %d%% chance to destroy
 windows.wndupgrade.glyph,Upgrading this item also has a %d%% chance to destroy its glyph!,升级这件物品还有%d%%的概率消除其刻印！
 windows.wndupgrade.harden,Upgrading this item also has a %d%% chance to break its hardening!,升级这件物品还有%d%%的概率消除其硬化！
 windows.wndupgrade.resin,"This wand has been enhanced with arcane resin, normal upgrades will override resin upgrades!",这根法杖已被奥术树脂强化，一般的升级效果将会覆盖树脂的升级效果！
+windows.wndupgrade.thrown_dust,Weapons from this set that aren't in your inventory will crumble to dust.,这组武器不在你背包的部分将化为尘土。
 windows.wndupgrade.damage,Damage,伤害
+windows.wndupgrade.dart_damage,Dart Damage,飞镖伤害
+windows.wndupgrade.bleeding,Bleeding,流血
 windows.wndupgrade.blocking,Blocking,防御
 windows.wndupgrade.weight,Weight,重量
-windows.wndupgrade.durability,Durability,耐久
+windows.wndupgrade.durability,Durability,耐久度
+windows.wndupgrade.quantity,Quantity,数量
 windows.wndupgrade.zap_damage,Zap Damage,魔法伤害
 windows.wndupgrade.corrosion_damage,Corrosion Damage,酸蚀伤害
 windows.wndupgrade.ward_damage,Ward Damage,哨卫伤害
@@ -351,7 +362,7 @@ windows.wndupgrade.charges,Max Charges,充能上限
 windows.wndupgrade.ring_boost,Ring Boost,戒指加成
 windows.wndupgrade.upgrade,Upgrade,升级
 windows.wndupgrade.back,Back,返回
-windows.wndvictorycongrats.title,Victory!,通关！
+windows.wndvictorycongrats.title,Victory!,获胜！
 windows.wndvictorycongrats.start_text,Congratulations on conquering the dungeon! You've unlocked some new features that are available when choosing a hero:,恭喜您征服了这座地牢！新的游戏选项已经解锁，你可以在选择英雄时查看并设置：
 windows.wndvictorycongrats.challenges,You can now enable _challenges!_ These are optional modifiers to make the game more difficult in a variety of ways.,您现在可以开启_挑战_功能了！挑战是一类通过各种方式为游戏增添难度的设置选项。
 windows.wndvictorycongrats.custom_seeds,You can now enter _custom seeds!_ The same seed and game version always produce the same dungeon.,您现在可以使用_自定义种子_进行游戏了！在版本不变的情况下，使用同一个种子将总是生成相同的地牢。
@@ -362,5 +373,5 @@ windows.wndvictorycongrats.support,Support,赞助
 windows.wndvictorycongrats.close,Close,关闭
 windows.wndwandmaker.dust,"Oh, I see you have the dust! Don't worry about the wraiths, I can deal with them. As I promised, you can choose one of my high quality wands.",哦，我注意到你已经获得了尸尘！别担心那些怨灵，我能解决它们。就像我承诺的，你可以选择我制作的一根高品质法杖。
 windows.wndwandmaker.ember,"Oh, I see you have the embers! I do hope the fire elemental wasn't too much trouble. As I promised, you can choose one of my high quality wands.",哦，我注意到你已经获得了余烬！希望那个火焰元素没有造成太多麻烦。就像我承诺的，你可以选择我制作的一根高品质法杖。
-windows.wndwandmaker.berry,"Oh, I see you have the berry! I do hope the rotberry plant didn't trouble you too much. As I promised, you can choose one of my high quality wands.",哦，我注意到你已经获得了腐莓！希望那株植物没有对你造成太多困扰。就像我承诺的，你可以选择我制作的一根高品质法杖。测试22
-windows.wndwandmaker.farewell,"Good luck in your quest, %s!",祝你在试炼中好运，%s！测
+windows.wndwandmaker.berry,"Oh, I see you have the berry! I do hope the rotberry plant didn't trouble you too much. As I promised, you can choose one of my high quality wands.",哦，我注意到你已经获得了腐莓！希望那株植物没有对你造成太多困扰。就像我承诺的，你可以选择我制作的一根高品质法杖。
+windows.wndwandmaker.farewell,"Good luck in your quest, %s!",祝你在试炼中好运，%s！

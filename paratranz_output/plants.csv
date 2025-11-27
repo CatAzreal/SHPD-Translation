@@ -1,5 +1,7 @@
-﻿﻿plants.blandfruitbush.name,blandfruit,无味果
+key,source,target
+plants.blandfruitbush.name,blandfruit,无味果
 plants.blandfruitbush.desc,"Distant cousin of the rotberry, the pear-shaped produce of the blandfruit bush tastes like caked dust. The fruit is gross and unsubstantial but isn't poisonous. Perhaps it could be cooked.",腐莓的远亲，来自无味果树丛的梨状产物，尝起来犹如一团泥巴。果实粗糙且松软，但并没有毒性。也许可以煮食。
+plants.blandfruitbush.discover_hint,You can find this plant randomly in the dungeon.,你可在地牢中概率找到该植物。
 plants.blandfruitbush$seed.name,seed of blandfruit,无味果之种
 plants.blindweed.name,blindweed,致盲草
 plants.blindweed.desc,Upon being touched a blindweed perishes in a bright flash of light. The flash is strong enough to disorient for several seconds.,在被碰到后，致盲草会瞬间枯萎并释放一道强光。这道光足以刺伤受害者双眼，使其暂时失明。
@@ -15,7 +17,7 @@ plants.earthroot.desc,"When a creature touches an earthroot, its roots create a 
 plants.earthroot.warden_desc,"The roots of an earthroot plant will move with _the Warden_, providing her mobile barkskin armor.",_守望者_能将这种护甲转化为可移动的树肤护甲。
 plants.earthroot$seed.name,seed of earthroot,地缚根之种
 plants.earthroot$armor.name,herbal armor,植被护甲
-plants.earthroot$armor.desc,"A kind of natural, immobile armor made of bark and twine.\n\nThis herbal armor will block %d damage from any physical hit, until it eventually runs out of durability and collapses.\n\nAs the armor is immobile, moving will cause it to break apart and be lost.\n\nArmor remaining: %d.","这是一种由层层树皮和藤蔓盘结而成的，不可移动的天然护甲。\n\n每当你受到物理攻击时，植被护甲都会吸收%d点伤害，直到其耐久被耗尽并瓦解。\n\n该护甲是不可移动的，所以一旦你离开原位护甲便会被破坏，消失不见。\n\n剩余护甲量：%d点"
+plants.earthroot$armor.desc,"A kind of natural, immobile armor made of bark and twine.\n\nThis herbal armor will block %d damage from any physical hit, until it eventually runs out of durability and collapses.\n\nAs the armor is immobile, moving will cause it to break apart and be lost.\n\nArmor remaining: %d.",这是一种由层层树皮和藤蔓盘结而成的，不可移动的天然护甲。\n\n每当你受到物理攻击时，植被护甲都会吸收%d点伤害，直到其耐久被耗尽并瓦解。\n\n该护甲是不可移动的，所以一旦你离开原位护甲便会被破坏，消失不见。\n\n剩余护甲量：%d点
 plants.fadeleaf.name,fadeleaf,消逝草
 plants.fadeleaf.desc,Touching a fadeleaf will teleport any creature to a random place on the current level.,任何触碰到消逝草的生物都会被传送到当前层的一个随机地点。
 plants.fadeleaf.warden_desc,"The teleportation effect of fadeleaf is more potent for _the Warden_, teleporting her back to the end of the previous dungeon level.",_守望者_能进一步发挥消逝草的空间魔力，直接回到上一层的下楼梯处。
@@ -29,16 +31,19 @@ plants.icecap.desc,"Upon being touched, an icecap lets out a puff of freezing po
 plants.icecap.warden_desc,"When she tramples an icecap, _the Warden_ will be briefly imbued with frost instead of being harmed.",_守望者_能将有害的冰冻转化为短时的寒霜之力。
 plants.icecap$seed.name,seed of icecap,冰冠花之种
 plants.plant.warden_desc,This plant has no special effect when used by the Warden.,守望者踩踏这株植物不会获得额外效果。
+plants.plant.discover_hint,"You can find this plant randomly in the dungeon, or grow it from its associated seed.",你可在地牢中概率找到该植物，或使用其种子种植。
 plants.plant$seed.seed_of,seed of %s,%s之种
 plants.plant$seed.ac_plant,PLANT,种植
-plants.plant$seed.info,"Throw this seed to the place where you want to grow a plant.\n\n%s","把这粒种子丢到你想长出一株植物的地方。\n\n%s"
+plants.plant$seed.info,Throw this seed to the place where you want to grow a plant.\n\n%s,把这粒种子丢到你想长出一株植物的地方。\n\n%s
 plants.plant$seed$placeholder.name,seed,种子
 plants.rotberry.name,rotberry,腐莓
 plants.rotberry.desc,"The berries of a young rotberry shrub taste like sweet, sweet death. Over a few years, this rotberry shrub will grow into another rot heart. When trampled, a young rotberry will produce a small puff of toxic gas.",未成熟的腐莓丛结出的莓果尝起来更像是甜蜜的死亡。经过成年累月的生长，这株腐莓丛终会成熟为另一棵腐莓核心。被踩踏后，这株未成熟的腐莓会释放少量毒气。
 plants.rotberry.warden_desc,"Normally a rotberry bush only produces a little gas when trampled, but _the Warden_ is able to harness energy from it to temporarily boost her strength!",遭到践踏时腐莓丛通常只会喷出一小股毒气，但_守望者_却能联结其中的魔力，在短时间内提升力量！
+plants.rotberry.discover_hint,You can grow this plant from its associated seed during a specific quest.,你可在某个任务中使用其种子种植该植物。
 plants.rotberry$seed.name,seed of rotberry,腐莓之种
+plants.rotberry$seed.discover_hint,You can find this item during a specific quest.,你可在某个任务中找到该物品。
 plants.sorrowmoss.name,sorrowmoss,断肠苔
-plants.sorrowmoss.desc,"A sorrowmoss is a flower (not a moss) with razor-sharp petals, coated with a deadly venom.",断肠苔并不是一种苔藓，而是一种有含有剧毒，花瓣利如刀片的花。
+plants.sorrowmoss.desc,"A sorrowmoss is a flower (not a moss) with razor-sharp petals, coated with a deadly venom.",断肠苔（实为花卉而非苔藓）是一种花瓣利如刀片，表面覆有致命毒液的植物。
 plants.sorrowmoss.warden_desc,"When she tramples a sorrowmoss, _the Warden_ will be briefly imbued with toxin instead of being harmed.",_守望者_能将有害的毒素转化为短时的毒素之力。
 plants.sorrowmoss$seed.name,seed of sorrowmoss,断肠苔之种
 plants.starflower.name,starflower,星陨花
@@ -54,10 +59,10 @@ plants.sungrass.desc,Sungrass is renowned for its sap's slow but effective heali
 plants.sungrass.warden_desc,_The Warden_ can receive healing from trampled sungrass even if she moves away from it.,_守望者_能将阳春草的治疗魔力随身携带。
 plants.sungrass$seed.name,seed of sungrass,阳春草之种
 plants.sungrass$health.name,herbal healing,草药疗养
-plants.sungrass$health.desc,"Sungrass possesses excellent healing properties, though it is much slower than a potion of healing.\n\nMoving off the plant will break the healing effect.\n\nHealing remaining: %d.","阳春草拥有优秀的治疗能力，尽管治疗速率比治疗药剂慢很多。\n\n脱离植株将会打断治疗效果。\n\n剩余治疗量：%d"
+plants.sungrass$health.desc,"Sungrass possesses excellent healing properties, though it is much slower than a potion of healing.\n\nMoving off the plant will break the healing effect.\n\nHealing remaining: %d.",阳春草拥有优秀的治疗能力，尽管治疗速率比治疗药剂慢很多。\n\n脱离植株将会打断治疗效果。\n\n剩余治疗量：%d
 plants.swiftthistle.name,swiftthistle,速行蓟
 plants.swiftthistle.desc,"When trampled, swiftthistle will briefly accelerate the flow of time around it, allowing the trampler to perform several actions instantly.",被踩踏后，速行蓟会加速周围的时间流动，让踩踏者可以瞬间行动数次
 plants.swiftthistle.warden_desc,"In addition to gaining instantaneous actions, _the Warden_ will also get a brief haste boost when trampling swiftthistle.",_守望者_踩踏速行蓟不仅能获得瞬时行动的机会，还能在短时间内极速奔跑。
 plants.swiftthistle$seed.name,seed of swiftthistle,速行蓟之种
 plants.swiftthistle$timebubble.name,time bubble,时间气泡
-plants.swiftthistle$timebubble.desc,"A small bubble of accelerated time, allowing actions to be performed instantly. Attacking or using magic will break this effect however.\n\nTurns remaining: %s.","这是一个加速时间运行的气泡。\n\n你可以在气泡中瞬间进行多次行动，但是攻击或施法都会打断这个效果。\n\n剩余时长：%s回合"
+plants.swiftthistle$timebubble.desc,"A small bubble of accelerated time, allowing actions to be performed instantly. Attacking or using magic will break this effect however.\n\nTurns remaining: %s.",这是一个加速时间运行的气泡。\n\n你可以在气泡中瞬间进行多次行动，但是攻击或施法都会打断这个效果。\n\n剩余时长：%s回合

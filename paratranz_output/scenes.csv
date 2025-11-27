@@ -1,4 +1,4 @@
-key,source,target
+﻿key,source,target
 scenes.alchemyscene.title,Alchemy,炼金
 scenes.alchemyscene.text,Combine ingredients to create something new!,放入材料以制作新的道具！
 scenes.alchemyscene.select,Select an item,选择一件物品
@@ -68,7 +68,7 @@ scenes.heroselectscene.custom_seed_nowin,"The game uses a seed code for dungeon 
 scenes.heroselectscene.custom_seed_set,Set,设置
 scenes.heroselectscene.custom_seed_clear,Clear,清除
 scenes.heroselectscene.challenges_nowin,"Challenges are optional modifiers that make the game more difficult. Some challenges make the dungeon more dangerous, others reduce the power of your abilities or items.\n\n_You must win at least one game before you are able to enable challenges._",挑战是一类为游戏增添难度的设置选项，可自行选择开启与否。其中的一些会使地牢变得更加危险，另一些则会削弱角色本身或其他物品的力量。\n\n_你必须先正常通关至少一次，才能开启挑战进行游玩。_
-scenes.heroselectscene.randomize,Randomize,随机化
+scenes.heroselectscene.randomize,Randomize,随机模式
 scenes.heroselectscene.randomize_hero,Randomize Hero,随机英雄
 scenes.heroselectscene.randomize_chals,Randomize Challenges,随机挑战
 scenes.heroselectscene.randomize_chals_title,Challenges,挑战

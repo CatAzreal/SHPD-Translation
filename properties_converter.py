@@ -37,7 +37,7 @@ def main():
         csv_filename = os.path.splitext(filename)[0] + '.csv'
         csv_filepath = os.path.join(output_folder, csv_filename)
         
-        with open(csv_filepath, 'w', newline='', encoding='utf-8') as csvfile:
+        with open(csv_filepath, 'w', newline='', encoding='utf-8-sig') as csvfile:
             # Adjust the header if your sample CSV format differs.
             writer = csv.writer(csvfile)
             writer.writerow(['key', 'source', 'target'])

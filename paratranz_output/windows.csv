@@ -1,4 +1,4 @@
-key,source,target
+﻿key,source,target
 windows.wndblacksmith.prompt,"Okay, a deal's a deal. Here's what I can do for you. I only work with identified and uncursed items.\n\n_Current Favor: %d_",好吧，按之前说好的，我得帮你做点事。我干活只收鉴定过还没诅咒的物品。\n\n_当前人情：%d_
 windows.wndblacksmith.pickaxe,_Pickaxe (%d favor):_ I guess I can give you the pickaxe back if you want. I've got plenty more.,_镐子(%d人情)：_你想要的话，这镐子可以给你。毕竟我有的是。
 windows.wndblacksmith.pickaxe_verify,"You sure you want dis old thing? The rock around here isn't soft like in the mine, so you won't be able to do any more digging with it.",你真想要这个破烂吗？这里的石头可不像矿井里的，你没法再拿它挖墙了。
@@ -58,7 +58,7 @@ windows.wndenergizeitem.energize,Turn into %d energy,转化为%d点能量
 windows.wndenergizeitem.energize_1,Turn 1 into %d energy,转化一个为%d点能量
 windows.wndenergizeitem.energize_all,Turn all into %d energy,转化全部为%d点能量
 windows.wndenergizeitem.trinket_warn,Are you sure you want to energize your trinket? You'll get 5 energy back but _the trinket will be permanently lost!_,你确定要炼化你的饰物吗？你会获得5点炼金能量返还，但_饰物将会永远消失！_
-windows.wndenergizeitem.trinket_yes,"Yes, energize it",是的，将其炼化
+windows.wndenergizeitem.trinket_yes,"Yes, energize it",是，将其炼化
 windows.wndenergizeitem.trinket_no,"No, nevermind",不，算了
 windows.wnderror.title,ERROR,错误
 windows.wndgame.settings,Settings,设置

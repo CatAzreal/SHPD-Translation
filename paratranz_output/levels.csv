@@ -1,4 +1,4 @@
-key,source,target
+﻿key,source,target
 levels.features.chasm.chasm,Chasm,深渊
 levels.features.chasm.yes,"Yes, I know what I'm doing",是的，我知道我在做什么
 levels.features.chasm.no,"No, I changed my mind",不，我改主意了
@@ -140,7 +140,7 @@ levels.citylevel.bookshelf_desc,The rows of books on different disciplines fill 
 levels.citylevel.region_deco_name,Flaming pedestal,长明基座
 levels.citylevel.region_deco_desc,A raised pedestal with a bright green magical flame atop. The flame is so dense it might as well be solid.,一个在其上燃有明亮的绿色魔法火焰的凸起基座。火焰是如此致密，好似固化了一般。
 levels.citylevel.upcoming_quest_intro_title,Developer Message,开发者留言
-levels.citylevel.upcoming_quest_intro_body,"The next major update to Shattered Pixel Dungeon will feature an overhaul to the quest given by the Ambitious Imp! This quest will task you with raiding an ancient dwarven vault, that you're current standing on top of the entrance for.\n\nCurrently the new quest area is pretty empty, but you're welcome to go down and look around, both to test the new area and give early feedback!\n\nOne of the quest's mechanics is that none of your items will come with you, so when descending you'll temporarily lose your items and _will be given an escape crystal that lets you return._ Hunger and regeneration effects will also be paused.\n\n- Evan",破碎的像素地牢的下次重要更新将着力于全面重做“野心勃勃的小恶魔”所给予的任务！重做后的任务将指示你突袭一处古代矮人保险库，而这处保险库的入口就在你的脚底下。\n\n当前，新任务的场地还很空旷，但欢迎你提前进去转转，测试新场地并给出早期反馈意见！\n\n重做后任务的机制之一，便是你将不携带自己的物品进入其中，这意味着进入保险库时，你将暂时失去你的所有物品，_但会获得一个能够使你返回此处的逃逸棱晶。_在保险库当中时，你不会饥饿，你的生命值也无法自然恢复。\n\n-Evan
+levels.citylevel.upcoming_quest_intro_body,"The next major update to Shattered Pixel Dungeon will feature an overhaul to the quest given by the Ambitious Imp! This quest will task you with raiding an ancient dwarven vault, that you're current standing on top of the entrance for.\n\nCurrently the new quest area is pretty empty, but you're welcome to go down and look around, both to test the new area and give early feedback!\n\nOne of the quest's mechanics is that none of your items will come with you, so when descending you'll temporarily lose your items and _will be given an escape crystal that lets you return._ Hunger and regeneration effects will also be paused.\n\n- Evan",破碎的像素地牢的下次重要更新将着力于全面重做“野心勃勃的小恶魔”所给予的任务！重做后的任务将指示你突袭一处远古的矮人宝库，而这处保险库的入口就在你的脚底下。\n\n当前，新任务的场地还很空旷，但欢迎你提前进去转转，测试新场地并给出早期反馈意见！\n\n重做后任务的机制之一，便是你将不携带自己的物品进入其中，这意味着进入宝库时，你将暂时失去你的所有物品，_不过还会获得一个能让你从中撤离的逃逸棱晶。_同时，饥饿增长与生命回复也都会被暂停。\n\n-Evan
 levels.citylevel.upcoming_quest_intro_yes,Descend into the vault,降入宝库
 levels.citylevel.upcoming_quest_intro_no,Stay here,留在原地
 levels.hallslevel.water_name,Cold lava,低温岩浆

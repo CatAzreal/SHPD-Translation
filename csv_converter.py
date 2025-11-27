@@ -4,7 +4,7 @@ import csv
 def read_csv_properties(csv_filepath):
     source_props = {}
     target_props = {}
-    with open(csv_filepath, encoding='utf-8') as csvfile:
+    with open(csv_filepath, encoding='utf-8-sig') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             key = row.get('key', '').strip()
@@ -16,7 +16,7 @@ def read_csv_properties(csv_filepath):
     return source_props, target_props
 
 def write_properties(filepath, properties):
-    with open(filepath, "w", encoding="utf-8") as f:
+    with open(filepath, "w", encoding="utf-8-sig") as f:
         for key, value in properties.items():
             f.write(f"{key}={value}\n")
 

@@ -1,4 +1,4 @@
-key,source,target
+﻿key,source,target
 ui.customnotebutton.title,Add a Custom Note,添加自定义备注
 ui.customnotebutton.limit_title,Note Limit Reached,备注已达上限
 ui.customnotebutton.limit_text,You can delete existing notes to make room for more. All of your current custom notes can be viewed from the journal window.,你可以删除已有的记录以为新的记录腾出空间。你当前所有的自定记录均可在日志窗口查看。
@@ -29,7 +29,7 @@ ui.talentspane.random_title,Random Talents,随机天赋
 ui.talentspane.random_sure,Are you sure you want to spend these talent points randomly?,你确定要随机消耗这些天赋点吗？
 ui.talentspane.random_yes,"Yes, spend them all.",是，消耗全部天赋点
 ui.talentspane.random_one,Just spend one randomly.,只随机消耗1点天赋点
-ui.talentspane.random_no,I'll decide later.,稍后决定
+ui.talentspane.random_no,I'll decide later.,我将稍后决定
 ui.toolbar.quickslot_prompt,Select a Quickslot,选择一个快捷栏
 ui.toolbar.quickslot_select,Select Quickslot,选择快捷栏
 ui.toolbar.quickslot_assign,Assign Quickslot,分配快捷栏
